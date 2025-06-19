@@ -1,0 +1,38 @@
+# Email Forms Project
+
+This project is a simple web form that submits user input to [Web3Forms](https://web3forms.com/) using their API. It includes a contact form with toast notifications for user feedback.
+
+## Features
+
+- Contact form with name, email, and message fields
+- Submits data to Web3Forms API
+- Toast notifications for success and error messages
+- Simple, customizable HTML and JavaScript
+
+## Screenshot
+
+![Screenshot of Email Forms Project](screenshot.png)
+
+## Setup
+
+1. **Clone or download this repository.**
+2. **Replace** `YOUR_ACCESS_KEY_HERE` in the form with your actual [Web3Forms access key](https://web3forms.com/).
+3. **Open `index.html` in your browser.**
+
+## Usage
+
+- Fill out the contact form and submit.
+- A toast notification will appear with the result of your submission.
+
+## Customization
+
+- Edit the form fields in `index.html` as needed.
+- Style the toast notification by modifying the inline CSS or moving it to a separate CSS file.
+
+## Dependencies
+
+- No external dependencies required.
+
+## Author
+
+Akhilesh Sharma 
